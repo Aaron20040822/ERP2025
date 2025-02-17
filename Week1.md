@@ -7,3 +7,7 @@ ERP（企業資源規劃）是一種將財務、庫存、人力資源等業務�
 
 ![image](https://github.com/user-attachments/assets/f31126ec-9b62-4bf6-81fe-512e05651f2e)
 
+## Hello your name with Date and Time by Google Colab
+![image](https://github.com/user-attachments/assets/7dabe534-2686-4c19-8a07-0c19ce2bfebc)
+
+
